@@ -25,6 +25,8 @@
 
 ### Week 2
 
+https://mail.google.com/mail/u/0?ui=2&ik=7b8fb72915&attid=0.1&permmsgid=msg-a:r-3063548765048845823&th=19bba4a94d9aa770&view=att&disp=inline&realattid=19bba4a843d9c3436371&zw
+
 ### Week 3
 
 ### Week 4
