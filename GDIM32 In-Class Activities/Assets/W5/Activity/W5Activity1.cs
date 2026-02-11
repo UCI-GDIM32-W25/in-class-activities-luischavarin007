@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/*
+
 
 public class W5Activity1 : MonoBehaviour
 {
@@ -95,4 +95,3 @@ public class Torch : Item, IBreakable {
 	}
 }
 
-*/
